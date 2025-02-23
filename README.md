@@ -13,12 +13,14 @@ This repository contains a Python-based spam classification system built using s
 
 ## Project Structure
 
+```
 Task2-SpamClassification/
 ├── spam_classifier.py # Main script for training, evaluation, and prediction
 ├── spam.csv # Dataset file
 ├── README.md # Project documentation (this file)
 ├── requirements.txt # Python dependencies
 └── .gitignore # Git ignore file (optional)
+```
 
 ## How It Works
 
